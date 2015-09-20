@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.Restaurant"
+        id        = "com.phonegap.RestaurantNew"
         version   = "1.0.0">
 
-    <name>Restaurant App</name>
+    <name>Restaurant App new</name>
 
     <description>
-        My Restaurant.
+        My Restaurant New.
     </description>
 
     <author href="http://phonegap.com" email="someone@mail.com">
